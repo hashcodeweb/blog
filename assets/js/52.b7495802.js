@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[52],{508:function(t,n,s){"use strict";s.r(n);var e=s(2),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("词根词缀三大记忆原则\n顺序改变，意思不变\n元音替换，意思不变\n读音相近，意思相同")])])}),[],!1,null,null,null);n.default=o.exports}}]);
